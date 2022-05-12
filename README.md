@@ -85,7 +85,7 @@ Using the Device Manager in Windows, it was determined that `ASRL5::INSTR` match
 #### Configuration Files
 
 Qudi operation requires a configuration file to inform the software which GUI to create,
-the logic behind the GUI and the hardware devices being used.  The GUI, logic
+the logic behind the GUI and the hardware devices being used.  The available GUI, logic
 and hardware code are defined in the `qudi-iqo-modules` repository.
 
 Below are configuration files and instructions for running qudi-based experiments.
