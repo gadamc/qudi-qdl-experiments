@@ -48,6 +48,8 @@ support a wider range of hardware.
   * `git clone https://github.com/Ulm-IQO/qudi-iqo-modules.git`
   * `cd qudi-iqo-modules`
   * `pip install -e .`
+* Installed `qudi` kernel for ipython/jupyter
+  * `qudi-install-kernel`
 
 The `pip install -e .` command installs the local source code into the python environment via soft links.
 This allows for editing of the source code without having to re-install `qudi-iqo-modules` to see changes.
